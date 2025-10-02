@@ -1,2 +1,2 @@
 # Domino-Game---Object-Oriented-Programming-Course
-A domino game written in java with a graphic interface within the course of Object Oriented Programming in CSD AUTH.
+A domino game written in java within the course of Object Oriented Programming in the CSD of Aristotle University of Thessaloniki. It has a GUI run in the "videoGame.java" file.
